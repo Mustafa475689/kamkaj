@@ -1,0 +1,181 @@
+
+.home {
+    height: 550px;
+    background-color: rgba(221, 205, 189, 0.945);
+}
+
+/*form*/
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+
+.form {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 900px;
+    border: solid;
+    border-radius: 18px;
+    width: 340px;
+    height: 400px;
+    background-color: black;
+}
+
+.form-write {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 280px;
+    height: 36px;
+    border: solid;
+    border-radius: 8px;
+    margin-left: 22px;
+    margin-right: auto;
+    margin-bottom: 6px;
+    
+}
+
+.form-select {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 290px;
+    height: 36px;
+    border: solid;
+    border-radius: 8px;
+    margin-left: 22px;
+    margin-right: auto;
+    margin-bottom: 6px;
+} 
+
+.form-butn {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    width: 290px;
+    height: 46px;
+    border: solid;
+    border-radius: 8px;
+    margin-left: 22px;
+    margin-right: auto;
+    margin-bottom: 6px;
+    background-color: rgb(255, 142, 12);   
+}
+
+.logo-home {
+    
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    margin-top: 80px;
+    margin-left: 100px;
+    color: rgb(255, 142, 12);
+}
+
+.h2-sp-1 {
+    color: gray;
+}
+
+.h2-sp-2 {
+    display: block;
+    
+}
+
+.p-1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+    margin-top: -20px;
+    margin-left: 100px;
+    
+}
+
+.p2-sp1 {
+    display: block;
+
+}
+
+.p2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 100px;
+    color: gray;
+}
+
+.head-input {
+    background-color: white;
+    border: gray;
+    border-radius: 8px;
+    box-shadow: 4px 4px 4px 2px;
+    width: 450px;
+    height: 40px;
+    margin-left: 100px  ;
+    margin-top: 20px;
+}
+
+.srch-icon {
+    position: absolute;
+    width: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    
+}
+
+.input-srv {
+    border: none;
+    width: 250px;
+    padding: 10px;
+}
+
+#city-2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    border: none;
+    width: 120px;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: Xx-large;
+    text-align: center;
+}
+
+.p3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    text-align: center;
+    color: gray;
+    margin-top: -20px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.p4-img-div {
+    border: solid;
+    width: 100px;
+    border-radius: 8px;
+}
+
+.p4-img {
+    width: 50px;
+    margin-left: 18px;
+    
+}
+
+.p4-sp1 {
+    display: block;
+
+}
+
+.p4 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: gray;
+}
